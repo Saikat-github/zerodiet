@@ -8,7 +8,7 @@ A two-sided platform for a personal trainer: clients sign up, select a plan, and
 
 ## Code Architecture
 
-- frontend (client panel) → https://github.com/Saikat-github/zerodiet-1-frontend
+- frontend/client panel → https://github.com/Saikat-github/zerodiet-1-frontend
 - admin/trainer panel → https://github.com/Saikat-github/zerodiet-1-admin
 
 ---
