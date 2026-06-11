@@ -2,7 +2,7 @@
 
 A two-sided platform for a personal trainer: clients sign up, select a plan, and complete a structured onboarding; the trainer manages all clients, delivers diet and training plans, and tracks earnings — from a single dashboard.
 
-**Live:** https://fitness-website-snowy.vercel.app
+**Live:** https://zerodiet.vercel.app
 
 ---
 
